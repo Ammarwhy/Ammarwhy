@@ -47,4 +47,4 @@ I'm a CS student at FAST NUCES and a developer focused on [your thing].
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ammarwhy&show_icons=true&theme=tokyonight)
