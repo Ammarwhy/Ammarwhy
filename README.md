@@ -4,7 +4,7 @@ I'm a CS student at FAST NUCES and a developer focused on Website/Software Devel
 
 - 🔭 Currently working on: creating a service to streamline the USCIS form i-485 for non-native English Speakers 
 - 🧠 Core focus: Website Development
-- 💼 Looking for: Open to any web dev/software development projects currently
+- 💼 Looking for: Open to any web dev/software development projects or Entry Level Roles in Front End Web Development
 
 ---
 
