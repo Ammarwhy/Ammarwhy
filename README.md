@@ -1,6 +1,6 @@
 # Hi, I'm Ammar 👋
 
-I'm a CS student at FAST NUCES and a developer focused on [your thing].
+I'm a CS student at FAST NUCES and a developer focused on Website/Software Development and Operation Streamlining.
 
 - 🔭 Currently working on: creating a service to streamline the USCIS form i-485 for non-native English Speakers 
 - 🧠 Core focus: Website Development
