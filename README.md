@@ -2,23 +2,24 @@
 
 I'm a CS student at FAST NUCES and a developer focused on [your thing].
 
-- 🔭 Currently working on: [your project]
-- 🧠 Core focus: [your stack/interests]
-- 💼 Looking for: [internship/roles]
+- 🔭 Currently working on: creating a service to streamline the USCIS form i-485 for non-native English Speakers 
+- 🧠 Core focus: Website Development
+- 💼 Looking for: Open to any web dev/software development projects currently
 
 ---
 
 ## 🔑 Key Projects
 
-- **[Project Name]**: Short description of what it does and the tech used.
-- **[Project Name]**: Short description.
+- Uplift ATS — CV Pipeline : AI-powered evaluation pipeline for a government HR vendor.
+- Parts Panel — B2B Auto Parts Wholesale: B2B wholesale auto parts platform for recyclers, dealers, and shops. Year/Make/Model search bar, 6-category navigation, 30+ manufacturer brands.
+
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ammar-04aa402b8/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ammar.muh923@email.com)
 
 ---
 
