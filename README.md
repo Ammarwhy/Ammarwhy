@@ -12,7 +12,7 @@ I'm a CS student at FAST NUCES and a developer focused on Website/Software Devel
 
 - Uplift ATS — CV Pipeline : AI-powered evaluation pipeline for a government HR vendor.
 - Parts Panel — B2B Auto Parts Wholesale: B2B wholesale auto parts platform for recyclers, dealers, and shops. Year/Make/Model search bar, 6-category navigation, 30+ manufacturer brands.
-
+- SAFAR : A full-stack travelling application with a swiping feature (like tinder), expense ledger, live chat rooms and an interactive discover page.
 
 ---
 
